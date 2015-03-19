@@ -1,0 +1,8 @@
+{
+  "name": "angular-possessive-directive",
+  "version": "1.0.1",
+  "main": "possessive.js",
+  "dependencies": {
+    "angular": ">=1.2.*"
+  }
+}
