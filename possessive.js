@@ -1,5 +1,4 @@
 "use strict";
-
 angular.module('filter.possessive', [])
     .filter('possessive', function () {
         return function (properNoun) {
