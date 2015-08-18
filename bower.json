@@ -1,0 +1,13 @@
+{
+  "name": "angular-possessive-directive",
+  "version": "1.0.1",
+  "main": "possessive.js",
+  "ignore": [
+        "bower.json",
+        "LICENSE",
+        "README.md"
+    ],
+  "dependencies": {
+    "angular": ">=1.2.*"
+  }
+}
