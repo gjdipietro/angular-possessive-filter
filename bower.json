@@ -5,7 +5,8 @@
   "ignore": [
         "bower.json",
         "LICENSE",
-        "README.md"
+        "README.md",
+        ".git"
     ],
   "dependencies": {
     "angular": ">=1.2.*"
