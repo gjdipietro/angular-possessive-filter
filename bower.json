@@ -1,6 +1,6 @@
 {
   "name": "angular-possessive-directive",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "main": "possessive.js",
   "ignore": [
         "bower.json",
